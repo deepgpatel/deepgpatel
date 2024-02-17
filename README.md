@@ -3,8 +3,13 @@
 </div>
 
 <div align="center">
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepdivedevelopers) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deepgpatel93/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@deepgpatel93) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DeepDiveDevsHQ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DeepInCodeTech) 
+    <a href="https://instagram.com/deepdivedevelopers"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/deepgpatel93/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://medium.com/@deepgpatel93"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
+    <a href="https://x.com/DeepDiveDevsHQ"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
+    <a href="https://youtube.com/@DeepInCodeTech"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
 </div>
+
 
 # 💫 About Me:
 Seasoned engineer driven by a strong passion for tackling intellectual challenges, ready to<br>apply expertise in software technology, AI, and game development
