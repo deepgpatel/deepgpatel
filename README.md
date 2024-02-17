@@ -24,8 +24,8 @@ Seasoned engineer driven by a strong passion for tackling intellectual challenge
 - 📚 Studying Data Structures & Algorithms
 
 ## ❗ Fun Facts
-- 🇯🇵 I am learning Japanese
-- 💪🏼 I am very big into Fitness
+- 🇯🇵 I am currently learning Japanese
+- 💪🏼 I Love Fitness
 - 🏴‍☠️ One Piece is my favorite show/manga
 
 # 💻 Tech Stack:
