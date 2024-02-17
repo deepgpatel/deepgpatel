@@ -8,7 +8,7 @@
     <a href="https://medium.com/@deepgpatel93"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
     <a href="https://x.com/DeepDiveDevsHQ"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
     <a href="https://youtube.com/@DeepInCodeTech"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a><br>
-    <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=deepgpatel&icon=2&color=4" alt="Visit Count"></a>
+    <a href="https://komarev.com/ghpvc/?username=deepgpatel"><img src="https://komarev.com/ghpvc/?username=deepgpatel&style=flat-square&color=blue") alt="Visit Count"></a>
 </div>
 
 
