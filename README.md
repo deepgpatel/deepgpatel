@@ -20,7 +20,7 @@ Seasoned engineer driven by a strong passion for tackling intellectual challenge
 - 🤖 Developing a Discord bot
 
 ## 🌱 Currently Learning:
-- 📚 Learning Full-Stack Principles
+- 📚 Learning APIs and RESTful Routes
 - 📚 Studying Data Structures & Algorithms
 
 ## ❗ Fun Facts
